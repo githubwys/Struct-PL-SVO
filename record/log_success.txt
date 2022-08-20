@@ -1,4 +1,4 @@
-(base) wys@wys-pc:~/slam/PL-SVO/wysPL-SVO/bin$ ./run_pipeline -trajout=tra.txt -mapout=map.txtclear
+(base) wys@wys-pc:~/slam/PL-SVO/Struct-PL-SVO/bin$ ./run_pipeline -trajout=tra.txt -mapout=map.txtclear
 ==========test_start==========
 ==========“dataset_dir”==========/home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0
 ==========“img_dir”==========/home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data
