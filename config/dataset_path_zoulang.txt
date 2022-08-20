@@ -1,0 +1,23 @@
+/media/wys/B2F4C82EF4C7F321/slamdata/ourdata/zoulang/960540/20220226_214958/device_0/sensor_1/Color_0/image/data
+
+20220223_212132 往复4096
+ok,有纯旋转，FAIL
+20220223_212546 往复
+转弯失败
+20220226_214846 单程
+
+20220226_214958 往复good data 
+okk
+20220226_215230 往复
+转弯失败
+20220226_215430
+初始化失败
+20220226_215608
+初始化失败
+
+第一行为图像位置
+第二行为参数文件位置
+
+// std::string dataset_dir="/home/wys/slam/PL-SVO/wysPL-SVO/config/";
+// string img_dir = "/home/wys/slam/data/celling/dingshidata/2021-10-04-08-56-40/camera/color/image_raw";
+// YAML::Node dset_config = YAML::LoadFile("/home/wys/slam/PL-SVO/wysPL-SVO/config/dataset_params.yaml");

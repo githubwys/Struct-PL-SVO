@@ -1,0 +1,11 @@
+/media/wys/B2F4C82EF4C7F321/slamdata/EuRoC/MH_01_easy/mav0/cam0/data
+
+/home/wys/slam/PL-SVO/wysPL-SVO/config/
+
+
+第一行为图像位置
+第二行为参数文件位置
+
+// std::string dataset_dir="/home/wys/slam/PL-SVO/wysPL-SVO/config/";
+// string img_dir = "/home/wys/slam/data/celling/dingshidata/2021-10-04-08-56-40/camera/color/image_raw";
+// YAML::Node dset_config = YAML::LoadFile("/home/wys/slam/PL-SVO/wysPL-SVO/config/dataset_params.yaml");

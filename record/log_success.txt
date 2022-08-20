@@ -1,0 +1,48 @@
+(base) wys@wys-pc:~/slam/PL-SVO/wysPL-SVO/bin$ ./run_pipeline -trajout=tra.txt -mapout=map.txtclear
+==========test_start==========
+==========“dataset_dir”==========/home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0
+==========“img_dir”==========/home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data
+[INFO] SVO initialized
+=========test1===========
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636579763555584.png
+[INFO] RESET
+[INFO] Init: Selected first frame.
+Frame-Id: 0 	#PointFeatures: 0 	#LineFeatures: 0 	Proc. Time: 43.666ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636579813555456.png
+[INFO] Init: KLT tracked 621 features
+[INFO] Init: KLT 3.53413px median disparity.
+Frame-Id: 1 	#PointFeatures: 0 	#LineFeatures: 0 	Proc. Time: 2.21ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636579863555584.png
+[INFO] Init: KLT tracked 611 features
+[INFO] Init: KLT 8.37489px median disparity.
+Frame-Id: 2 	#PointFeatures: 0 	#LineFeatures: 0 	Proc. Time: 3.135ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636579913555456.png
+[INFO] Init: KLT tracked 598 features
+[INFO] Init: KLT 17.0277px median disparity.
+Frame-Id: 3 	#PointFeatures: 0 	#LineFeatures: 0 	Proc. Time: 2.588ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636579963555584.png
+[INFO] Init: KLT tracked 585 features
+[INFO] Init: KLT 28.1821px median disparity.
+Frame-Id: 4 	#PointFeatures: 0 	#LineFeatures: 0 	Proc. Time: 2.994ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636580013555456.png
+[INFO] Init: KLT tracked 561 features
+[INFO] Init: KLT 42.202px median disparity.
+[INFO] Init: Homography RANSAC 252 inliers.
+[INFO] Init: Selected second frame, triangulated initial map.
+Frame-Id: 5 	#PointFeatures: 216 	#LineFeatures: 0 	Proc. Time: 15.179ms
+
+reading image /home/wys/slam/data/EuRoC/MH_01_easy/mav0/cam0/data/1403636580063555584.png
+Frame-Id: 6 	#PointFeatures: 101 	#LineFeatures: 0 	Proc. Time: 2.644ms
+
+Frame-Id: 7 	#PointFeatures: 101 	#LineFeatures: 0 	Proc. Time: 1.496ms
+
+Frame-Id: 8 	#PointFeatures: 101 	#LineFeatures: 0 	Proc. Time: 1.995ms
+
+Frame-Id: 9 	#PointFeatures: 101 	#LineFeatures: 0 	Proc. Time: 1.051ms
+
+Frame-Id: 10 	#PointFeatures: 97 	#LineFeatures: 0 	Proc. Time: 1.061ms
