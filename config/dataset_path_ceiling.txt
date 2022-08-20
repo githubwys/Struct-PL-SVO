@@ -1,14 +1,3 @@
 /media/wys/B2F4C82EF4C7F321/slamdata/ourdata/ceiling/realsense/960540/960540/20220124_225334/device_0/sensor_1/Color_0/image/data
 
-20220124_225334
-特征少
-20220124_230452
-
-20220124_230720  
-特征少
-20220124_230953
-
-20220124_231008
-
-
 
